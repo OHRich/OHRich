@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm a developer from Russia</h3>
+
 <!--
 **OHRich/OHRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
