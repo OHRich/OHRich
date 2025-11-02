@@ -1,19 +1,12 @@
-## Hi there 👋
-
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm a developer from Russia</h3>
 
-<!--
-**OHRich/OHRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Programming Languages**
+- C++ — OOP, STL, memory management
+- Python — Flask, Telegram bots
+- Lua — RedM/FiveM scripting
+- Java — basic knowledge, Android development
+- HTML, CSS, JavaScript — basic knowledge
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact me:**
+[![Gmail Badge](https://img.shields.io/badge/-mxcshf@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mxcshf@gmail.com)
